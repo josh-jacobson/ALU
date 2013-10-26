@@ -3,3 +3,825 @@ K3
 13
 cModel Technology
 d/home/jdj560
+Eadd
+Z0 w1382826936
+Z1 DP work eecs361_gates jb>Jj^gk2fElzOU49[A@c1
+Z2 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 d/home/jdj560/vhdl
+Z4 8/home/jdj560/vhdl/add.vhd
+Z5 F/home/jdj560/vhdl/add.vhd
+l0
+L6
+V@V0ALY0KE6@=D>C[_<j4i3
+Z6 OL;C;6.3c;37
+32
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1
+Astructural
+R1
+R2
+DE work add @V0ALY0KE6@=D>C[_<j4i3
+l17
+L13
+VDCTXn=;4THckV0U;hid]<1
+R6
+32
+Z9 M2 ieee std_logic_1164
+Z10 M1 work eecs361_gates
+R7
+R8
+Eand_32
+Z11 w1382827411
+R2
+R3
+Z12 8/home/jdj560/vhdl/add_32.vhd
+Z13 F/home/jdj560/vhdl/add_32.vhd
+l0
+L4
+Vn1Z2R3334cRDOaYOC2V451
+R6
+32
+R7
+R8
+Astructural
+R2
+DE work and_32 n1Z2R3334cRDOaYOC2V451
+l25
+L14
+V>kd@5X`_La6mO`[X6eFiG2
+R6
+32
+Z14 M1 ieee std_logic_1164
+R7
+R8
+Eand_gate
+Z15 w1382473361
+R2
+R3
+Z16 8/home/jdj560/vhdl/and_gate.vhd
+Z17 F/home/jdj560/vhdl/and_gate.vhd
+l0
+L5
+ViD35i4k5;<51ZJNgE_I`?1
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work and_gate iD35i4k5;<51ZJNgE_I`?1
+l14
+L13
+V7Ie:gb<o026L7LOWFa@fQ2
+R6
+32
+R14
+R7
+R8
+Eand_gate_32
+R15
+R2
+R3
+Z18 8/home/jdj560/vhdl/and_gate_32.vhd
+Z19 F/home/jdj560/vhdl/and_gate_32.vhd
+l0
+L5
+VFczoAX`e79<gCJJa4LDh70
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work and_gate_32 FczoAX`e79<gCJJa4LDh70
+l14
+L13
+V[_QoUaofmi7Za7gOzW8f_3
+R6
+32
+R14
+R7
+R8
+Eand_gate_n
+R15
+R2
+R3
+Z20 8/home/jdj560/vhdl/and_gate_n.vhd
+Z21 F/home/jdj560/vhdl/and_gate_n.vhd
+l0
+L5
+V1XjoRBjHE@ET>hR0@P]9^1
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work and_gate_n 1XjoRBjHE@ET>hR0@P]9^1
+l17
+L16
+VKOPPga9^U2LEGMBB_4QJR2
+R6
+32
+R14
+R7
+R8
+Edec_n
+R15
+Z22 DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+R2
+R3
+Z23 8/home/jdj560/vhdl/dec_n.vhd
+Z24 F/home/jdj560/vhdl/dec_n.vhd
+l0
+L5
+VW81n^B>0EZAUSR3lSH_HI2
+R6
+32
+R7
+R8
+Abehavioral
+R22
+R2
+DE work dec_n W81n^B>0EZAUSR3lSH_HI2
+l16
+L15
+Vi7;z?Xn:oVfLC:FBzAUDg2
+R6
+32
+R9
+Z25 M1 ieee numeric_std
+R7
+R8
+Edff
+R15
+R2
+R3
+Z26 8/home/jdj560/vhdl/dff.vhd
+Z27 F/home/jdj560/vhdl/dff.vhd
+l0
+L4
+V28WCl`LXJ6<cID_LbAJo<3
+R6
+32
+R7
+R8
+Abehavioral
+R2
+DE work dff 28WCl`LXJ6<cID_LbAJo<3
+l13
+L12
+VBPd8eX:o4]XI`n6BT]<ZQ2
+R6
+32
+R14
+R7
+R8
+Edffr
+R15
+R2
+R3
+Z28 8/home/jdj560/vhdl/dffr.vhd
+Z29 F/home/jdj560/vhdl/dffr.vhd
+l0
+L4
+VDlSBe>MRYSYBA]_@lfL2S1
+R6
+32
+R7
+R8
+Abehavioral
+R2
+DE work dffr DlSBe>MRYSYBA]_@lfL2S1
+l13
+L12
+V>m^noO]>>AgFBIPb93zgb0
+R6
+32
+R14
+R7
+R8
+Peecs361
+R1
+R2
+R15
+R3
+8/home/jdj560/vhdl/eecs361.vhd
+F/home/jdj560/vhdl/eecs361.vhd
+l0
+L8
+Vk[L>h2QD_MnH6R7?HiNRR2
+R6
+32
+R9
+R10
+R7
+R8
+Peecs361_gates
+R2
+R15
+R3
+8/home/jdj560/vhdl/eecs361_gates.vhd
+F/home/jdj560/vhdl/eecs361_gates.vhd
+l0
+L4
+Vjb>Jj^gk2fElzOU49[A@c1
+R6
+32
+R14
+R7
+R8
+Emux
+R15
+R1
+Z30 DP work eecs361 k[L>h2QD_MnH6R7?HiNRR2
+R2
+R3
+Z31 8/home/jdj560/vhdl/mux.vhd
+Z32 F/home/jdj560/vhdl/mux.vhd
+l0
+L5
+VH8`C3OODn93bf9eN1]XJB3
+R6
+32
+R7
+R8
+Astructural
+R1
+R30
+R2
+DE work mux H8`C3OODn93bf9eN1]XJB3
+l15
+L14
+V212T8Q6Y1FPn74eTIknzT0
+R6
+32
+Z33 M3 ieee std_logic_1164
+Z34 M2 work eecs361
+R10
+R7
+R8
+Emux_32
+R15
+R1
+R30
+R2
+R3
+Z35 8/home/jdj560/vhdl/mux_32.vhd
+Z36 F/home/jdj560/vhdl/mux_32.vhd
+l0
+L5
+VjUQ]8^VAGaBITIJ?09mgZ0
+R6
+32
+R7
+R8
+Astructural
+R1
+R30
+R2
+DE work mux_32 jUQ]8^VAGaBITIJ?09mgZ0
+l15
+L14
+VIP8cdkJj]VWG1`6VM@Xk^1
+R6
+32
+R33
+R34
+R10
+R7
+R8
+Emux_n
+R15
+R2
+R3
+Z37 8/home/jdj560/vhdl/mux_n.vhd
+Z38 F/home/jdj560/vhdl/mux_n.vhd
+l0
+L4
+VAP3TUN0AgIHIkSP1g9I2h2
+R6
+32
+R7
+R8
+Abehavioral
+R2
+DE work mux_n AP3TUN0AgIHIkSP1g9I2h2
+l17
+L16
+VHe_`dTiLFkI]W1:f<mA8]1
+R6
+32
+R14
+R7
+R8
+Enand_gate
+R15
+R2
+R3
+Z39 8/home/jdj560/vhdl/nand_gate.vhd
+Z40 F/home/jdj560/vhdl/nand_gate.vhd
+l0
+L5
+Ve3e2@JdTh<J`noVQnnJ@>0
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nand_gate e3e2@JdTh<J`noVQnnJ@>0
+l14
+L13
+VOo9O9VIM]EELEhRlg;3ci1
+R6
+32
+R14
+R7
+R8
+Enand_gate_32
+R15
+R2
+R3
+Z41 8/home/jdj560/vhdl/nand_gate_32.vhd
+Z42 F/home/jdj560/vhdl/nand_gate_32.vhd
+l0
+L5
+V7Mkf65>_JL>B=JfiR<KU20
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nand_gate_32 7Mkf65>_JL>B=JfiR<KU20
+l14
+L13
+V:in@:;1K^ClbegAC^2JQZ3
+R6
+32
+R14
+R7
+R8
+Enand_gate_n
+R15
+R2
+R3
+Z43 8/home/jdj560/vhdl/nand_gate_n.vhd
+Z44 F/home/jdj560/vhdl/nand_gate_n.vhd
+l0
+L5
+V@K[DNZGGXo]GX;VkAn@2K2
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nand_gate_n @K[DNZGGXo]GX;VkAn@2K2
+l17
+L16
+VmY7=e>9IDNeY2Ti>dBgzF3
+R6
+32
+R14
+R7
+R8
+Enor_gate
+R15
+R2
+R3
+Z45 8/home/jdj560/vhdl/nor_gate.vhd
+Z46 F/home/jdj560/vhdl/nor_gate.vhd
+l0
+L5
+V0Z9Y7ez]JMl814lR?Yn2B2
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nor_gate 0Z9Y7ez]JMl814lR?Yn2B2
+l14
+L13
+V1@WZWgBLHQB[6VPdSok4U3
+R6
+32
+R14
+R7
+R8
+Enor_gate_32
+R15
+R2
+R3
+Z47 8/home/jdj560/vhdl/nor_gate_32.vhd
+Z48 F/home/jdj560/vhdl/nor_gate_32.vhd
+l0
+L5
+Vbl:knAzWoo_aMmj8M[0Jj3
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nor_gate_32 bl:knAzWoo_aMmj8M[0Jj3
+l14
+L13
+VK[cEIO0ARcoJ>g<gaM04o2
+R6
+32
+R14
+R7
+R8
+Enor_gate_n
+R15
+R2
+R3
+Z49 8/home/jdj560/vhdl/nor_gate_n.vhd
+Z50 F/home/jdj560/vhdl/nor_gate_n.vhd
+l0
+L5
+V:k0ZH6hX:W?8RHjI0o7;B3
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work nor_gate_n :k0ZH6hX:W?8RHjI0o7;B3
+l17
+L16
+V9jT?68WO^=3XC=D=SMTPS2
+R6
+32
+R14
+R7
+R8
+Enot_gate
+R15
+R2
+R3
+Z51 8/home/jdj560/vhdl/not_gate.vhd
+Z52 F/home/jdj560/vhdl/not_gate.vhd
+l0
+L5
+VXP@^J<e?l]CcJlKO@b[V?0
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work not_gate XP@^J<e?l]CcJlKO@b[V?0
+l13
+L12
+V<k1;LQEQzF8B7:RRi7Mde1
+R6
+32
+R14
+R7
+R8
+Enot_gate_32
+R15
+R2
+R3
+Z53 8/home/jdj560/vhdl/not_gate_32.vhd
+Z54 F/home/jdj560/vhdl/not_gate_32.vhd
+l0
+L5
+VcC6XclZOO=K4MHiG:8Ma?3
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work not_gate_32 cC6XclZOO=K4MHiG:8Ma?3
+l13
+L12
+VL;<X?Q5>UWM;4L^2?L8;J1
+R6
+32
+R14
+R7
+R8
+Enot_gate_n
+R15
+R2
+R3
+Z55 8/home/jdj560/vhdl/not_gate_n.vhd
+Z56 F/home/jdj560/vhdl/not_gate_n.vhd
+l0
+L5
+V;W<BHGSET;;Wbz>nW_AE21
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work not_gate_n ;W<BHGSET;;Wbz>nW_AE21
+l16
+L15
+VZagUI6;4O0Q8W`WI0RXP20
+R6
+32
+R14
+R7
+R8
+Eor_gate
+R15
+R2
+R3
+Z57 8/home/jdj560/vhdl/or_gate.vhd
+Z58 F/home/jdj560/vhdl/or_gate.vhd
+l0
+L5
+VPobQeTH]Bgm3H`aI8;k>31
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work or_gate PobQeTH]Bgm3H`aI8;k>31
+l14
+L13
+V:T1M><UC2A[fd__0Z3V321
+R6
+32
+R14
+R7
+R8
+Eor_gate_32
+R15
+R2
+R3
+Z59 8/home/jdj560/vhdl/or_gate_32.vhd
+Z60 F/home/jdj560/vhdl/or_gate_32.vhd
+l0
+L5
+VH7CDAnY5XCR^8?WZYlO9S3
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work or_gate_32 H7CDAnY5XCR^8?WZYlO9S3
+l14
+L13
+V=;K87[]nQK7VVOfa414za0
+R6
+32
+R14
+R7
+R8
+Eor_gate_n
+R15
+R2
+R3
+Z61 8/home/jdj560/vhdl/or_gate_n.vhd
+Z62 F/home/jdj560/vhdl/or_gate_n.vhd
+l0
+L5
+VXnPMiQfo2id:2^4:z57Ee1
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work or_gate_n XnPMiQfo2id:2^4:z57Ee1
+l17
+L16
+VG3AN:gb8ESJCPc^@2_@8T2
+R6
+32
+R14
+R7
+R8
+Esram
+R15
+R22
+Z63 DP ieee std_logic_textio 8YS?iX`WD1REQG`ZRYQGB2
+Z64 DP std textio K]Z^fghZ6B=BjnK5NomDT3
+Z65 DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+Z66 DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+R2
+R3
+Z67 8/home/jdj560/vhdl/sram.vhd
+Z68 F/home/jdj560/vhdl/sram.vhd
+l0
+L12
+VD[K6nRz3ncm10jT>?DOML3
+R6
+32
+R7
+R8
+Abehavioral
+R22
+R63
+R64
+R65
+R66
+R2
+DE work sram D[K6nRz3ncm10jT>?DOML3
+l27
+L26
+Vm;b;[MPebHhV<6D3GM:dB1
+R6
+32
+Z69 M6 ieee std_logic_1164
+Z70 M5 ieee std_logic_unsigned
+Z71 M4 ieee std_logic_arith
+Z72 M3 std textio
+Z73 M2 ieee std_logic_textio
+R25
+R7
+R8
+Esyncram
+R15
+R22
+R63
+R64
+R65
+R66
+R2
+R3
+Z74 8/home/jdj560/vhdl/syncram.vhd
+Z75 F/home/jdj560/vhdl/syncram.vhd
+l0
+L12
+V]e:Y?obJ[4M8b[19LA@K03
+R6
+32
+R7
+R8
+Abehavioral
+R22
+R63
+R64
+R65
+R66
+R2
+DE work syncram ]e:Y?obJ[4M8b[19LA@K03
+l28
+L27
+VTbiEHF5k9SX[KFh3dAhke3
+R6
+32
+R69
+R70
+R71
+R72
+R73
+R25
+R7
+R8
+Exnor_gate
+R15
+R2
+R3
+Z76 8/home/jdj560/vhdl/xnor_gate.vhd
+Z77 F/home/jdj560/vhdl/xnor_gate.vhd
+l0
+L5
+V0jC_AEbQ?fX[VC;d9f=SZ0
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xnor_gate 0jC_AEbQ?fX[VC;d9f=SZ0
+l14
+L13
+V][HPFQ:M`=3IFhOU=XVYJ0
+R6
+32
+R14
+R7
+R8
+Exnor_gate_32
+R15
+R2
+R3
+Z78 8/home/jdj560/vhdl/xnor_gate_32.vhd
+Z79 F/home/jdj560/vhdl/xnor_gate_32.vhd
+l0
+L5
+VRBRJkD;GmzZ;KGbV>TfCE0
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xnor_gate_32 RBRJkD;GmzZ;KGbV>TfCE0
+l14
+L13
+VchlkO?g<:;C7BR0hd]5FV0
+R6
+32
+R14
+R7
+R8
+Exnor_gate_n
+R15
+R2
+R3
+Z80 8/home/jdj560/vhdl/xnor_gate_n.vhd
+Z81 F/home/jdj560/vhdl/xnor_gate_n.vhd
+l0
+L5
+VQ5SkE=YScX<bAnLWRJeLY2
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xnor_gate_n Q5SkE=YScX<bAnLWRJeLY2
+l17
+L16
+VLC0RBM2e5O=z4B8[nmYS50
+R6
+32
+R14
+R7
+R8
+Exor_gate
+R15
+R2
+R3
+Z82 8/home/jdj560/vhdl/xor_gate.vhd
+Z83 F/home/jdj560/vhdl/xor_gate.vhd
+l0
+L5
+VbjSHRh8@2g]F@@2[VWf6l1
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xor_gate bjSHRh8@2g]F@@2[VWf6l1
+l14
+L13
+VQF4A7TezMo3;;R6IF:@c?0
+R6
+32
+R14
+R7
+R8
+Exor_gate_32
+R15
+R2
+R3
+Z84 8/home/jdj560/vhdl/xor_gate_32.vhd
+Z85 F/home/jdj560/vhdl/xor_gate_32.vhd
+l0
+L5
+Vi1l=7]fR<l]0hCK8E^IZW3
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xor_gate_32 i1l=7]fR<l]0hCK8E^IZW3
+l14
+L13
+VlQDA]gCWf5zNUcF>DSMlC3
+R6
+32
+R14
+R7
+R8
+Exor_gate_n
+R15
+R2
+R3
+Z86 8/home/jdj560/vhdl/xor_gate_n.vhd
+Z87 F/home/jdj560/vhdl/xor_gate_n.vhd
+l0
+L5
+VY>2j8ke4[;]oUS6I4Nak60
+R6
+32
+R7
+R8
+Adataflow
+R2
+DE work xor_gate_n Y>2j8ke4[;]oUS6I4Nak60
+l17
+L16
+VY]BUeL=[7e79jmfInCRiH2
+R6
+32
+R14
+R7
+R8
