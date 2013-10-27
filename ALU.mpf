@@ -383,7 +383,7 @@ AutoExclusions = fsm
 UserTimeUnit = default
 
 ; Default run length
-RunLength = 150 ns
+RunLength = 350 ns
 
 ; Maximum iterations that can be run without advancing simulation time
 IterationLimit = 5000
@@ -1076,7 +1076,7 @@ Project_File_P_6 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 
 Project_File_7 = /home/jdj560/vhdl/sub_32.vhd
 Project_File_P_7 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382843714 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 37 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_8 = /home/jdj560/vhdl/alu_demo.vhd
-Project_File_P_8 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382850932 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 35 dont_compile 0 cover_nosub 0 vhdl_use93 2002
+Project_File_P_8 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382851582 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 35 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_9 = /home/jdj560/vhdl/or_gate_n.vhd
 Project_File_P_9 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382473361 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 23 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_10 = /home/jdj560/vhdl/not_gate_n.vhd

@@ -26,18 +26,25 @@ architecture structural of alu_demo is
 
    test_proc : process
    begin
+       -- test addition (working)
       A <= x"00000001";
       B <= x"00000001";
       control <= "000";
       wait for 5 ns;
-      wait;
       
-      -- test subtract (NOT WORKING)
+      A <= x"f0010001";
+      B <= x"00001001";
+      wait for 5 ns;
+      
+      A <= x"ffffffff";
+      B <= x"ffffffff";
+      wait for 5 ns;
+      
+      -- test subtract (seems to be working)
       A <= x"00000001";
       B <= x"00000001";
       control <= "001";
       wait for 5 ns;
-      wait;
       
       
       -- test and
@@ -45,7 +52,6 @@ architecture structural of alu_demo is
       B <= x"00000001";
       control <= "010";
       wait for 5 ns;
-      wait;
       
       
       -- test or
@@ -59,7 +65,6 @@ architecture structural of alu_demo is
       B <= x"00000001";
       control <= "100";
       wait for 5 ns;
-      wait;
       
       -- test slt
       A <= x"00000001";
