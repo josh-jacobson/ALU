@@ -5,7 +5,26 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package eecs361_gates
 -- Compiling package eecs361
 
-} {} {}} /home/jdj560/vhdl/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nor_gate_32.vhd
+} {} {}} /home/jdj560/vhdl/sll.vhd {0 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/sll.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity sll_32
+-- Compiling architecture structural of sll_32
+** Error: /home/jdj560/vhdl/sll.vhd(18): No feasible entries for infix operator "-".
+** Error: /home/jdj560/vhdl/sll.vhd(18): Bad expression in right bound of range expression.
+** Error: /home/jdj560/vhdl/sll.vhd(18): Cannot resolve expression type.
+** Error: /home/jdj560/vhdl/sll.vhd(18): Illegal concurrent statement.
+** Error: /home/jdj560/vhdl/sll.vhd(19): near "=": expecting "<=" or ":="
+** Error: /home/jdj560/vhdl/sll.vhd(22): (vcom-1079) Range left bound type ieee.std_logic_1164.std_logic_vector is not the same as right bound type Integer.
+** Error: /home/jdj560/vhdl/sll.vhd(22): Illegal concurrent statement.
+** Error: /home/jdj560/vhdl/sll.vhd(23): near "=": expecting "<=" or ":="
+** Error: /home/jdj560/vhdl/sll.vhd(26): Illegal target for signal assignment.
+** Error: /home/jdj560/vhdl/sll.vhd(26): (vcom-1136) Unknown identifier "result".
+** Error: /home/jdj560/vhdl/sll.vhd(28): near "structural": expecting "LOOP"
+
+} {8.0 19.0} {}} /home/jdj560/vhdl/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nor_gate_32.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
@@ -40,20 +59,36 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity not_gate_32
 -- Compiling architecture dataflow of not_gate_32
 
-} {} {}} /home/jdj560/vhdl/alu_demo.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu_demo.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity alu_demo
--- Compiling architecture structural of alu_demo
-
-} {} {}} /home/jdj560/vhdl/alu.vhdl {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu.vhdl
+} {} {}} /home/jdj560/vhdl/alu.vhdl {0 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu.vhdl
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package eecs361_gates
 -- Compiling entity alu
 -- Compiling architecture structural of alu
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(77): Signal "overflow" is type ieee.std_logic_1164.std_logic; expecting type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(78): VHDL Compiler exiting
+
+} {8.0 16.0} {}} /home/jdj560/vhdl/sub_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/sub_32.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity sub_32
+-- Compiling architecture structural of sub_32
+
+} {} {}} /home/jdj560/vhdl/alu_demo.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu_demo.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity alu_demo
+-- Compiling architecture structural of alu_demo
 
 } {} {}} /home/jdj560/vhdl/or_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/or_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -92,6 +127,13 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity dff
 -- Compiling architecture behavioral of dff
 
+} {} {}} /home/jdj560/vhdl/xor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xor_gate.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture dataflow of xor_gate
+
 } {} {}} /home/jdj560/vhdl/nand_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nand_gate.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
@@ -99,12 +141,12 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity nand_gate
 -- Compiling architecture dataflow of nand_gate
 
-} {} {}} /home/jdj560/vhdl/xor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xor_gate.vhd
+} {} {}} /home/jdj560/vhdl/dffr.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/dffr.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity xor_gate
--- Compiling architecture dataflow of xor_gate
+-- Compiling entity dffr
+-- Compiling architecture behavioral of dffr
 
 } {} {}} /home/jdj560/vhdl/mux.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/mux.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -115,14 +157,7 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity mux
 -- Compiling architecture structural of mux
 
-} {} {}} /home/jdj560/vhdl/dffr.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/dffr.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity dffr
--- Compiling architecture behavioral of dffr
-
-} {} {}} /home/jdj560/vhdl/mux_8_to_1.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/mux_8_to_1.vhd
+} {} {}} /home/jdj560/vhdl/mux_8_to_1.vhd {0 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/mux_8_to_1.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
@@ -130,13 +165,29 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package eecs361
 -- Compiling entity mux_8_to_1
 -- Compiling architecture structural of mux_8_to_1
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(25): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(26): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(27): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(28): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(31): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(32): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(35): (vcom-1141) Identifier "mux" does not identify a component declaration.
+** Error: /home/jdj560/vhdl/mux_8_to_1.vhd(37): VHDL Compiler exiting
 
-} {} {}} /home/jdj560/vhdl/and_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/and_gate.vhd
+} {9.0 17.0} {}} /home/jdj560/vhdl/slt.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/slt.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity and_gate
--- Compiling architecture dataflow of and_gate
+-- Loading package eecs361_gates
+-- Compiling entity slt_32
+-- Compiling architecture structural of slt_32
+
+} {} {}} /home/jdj560/vhdl/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xnor_gate_32.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_32
+-- Compiling architecture dataflow of xnor_gate_32
 
 } {} {}} /home/jdj560/vhdl/sram.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/sram.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -150,12 +201,12 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity sram
 -- Compiling architecture behavioral of sram
 
-} {} {}} /home/jdj560/vhdl/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xnor_gate_32.vhd
+} {} {}} /home/jdj560/vhdl/and_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/and_gate.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity xnor_gate_32
--- Compiling architecture dataflow of xnor_gate_32
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
 
 } {} {}} /home/jdj560/vhdl/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xnor_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -164,18 +215,12 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity xnor_gate_n
 -- Compiling architecture dataflow of xnor_gate_n
 
-} {} {}} /home/jdj560/vhdl/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/eecs361_gates.vhd
+} {} {}} /home/jdj560/vhdl/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xor_gate_32.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling package eecs361_gates
-
-} {} {}} /home/jdj560/vhdl/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nand_gate_32.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity nand_gate_32
--- Compiling architecture dataflow of nand_gate_32
+-- Compiling entity xor_gate_32
+-- Compiling architecture dataflow of xor_gate_32
 
 } {} {}} /home/jdj560/vhdl/syncram.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/syncram.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -189,19 +234,18 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity syncram
 -- Compiling architecture behavioral of syncram
 
-} {} {}} /home/jdj560/vhdl/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xor_gate_32.vhd
+} {} {}} /home/jdj560/vhdl/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nand_gate_32.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity xor_gate_32
--- Compiling architecture dataflow of xor_gate_32
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
 
-} {} {}} /home/jdj560/vhdl/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nand_gate_n.vhd
+} {} {}} /home/jdj560/vhdl/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/eecs361_gates.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity nand_gate_n
--- Compiling architecture dataflow of nand_gate_n
+-- Compiling package eecs361_gates
 
 } {} {}} /home/jdj560/vhdl/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xor_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -210,19 +254,12 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity xor_gate_n
 -- Compiling architecture dataflow of xor_gate_n
 
-} {} {}} /home/jdj560/vhdl/mux_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/mux_n.vhd
+} {} {}} /home/jdj560/vhdl/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nand_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
--- Compiling entity mux_n
--- Compiling architecture behavioral of mux_n
-
-} {} {}} /home/jdj560/vhdl/and_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/and_gate_32.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity and_gate_32
--- Compiling architecture dataflow of and_gate_32
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
 
 } {} {}} /home/jdj560/vhdl/nor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/nor_gate.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -231,34 +268,26 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity nor_gate
 -- Compiling architecture dataflow of nor_gate
 
+} {} {}} /home/jdj560/vhdl/and_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/and_gate_32.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} /home/jdj560/vhdl/mux_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/mux_n.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
 } {} {}} /home/jdj560/vhdl/and_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/and_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Compiling entity and_gate_n
 -- Compiling architecture dataflow of and_gate_n
-
-} {} {}} /home/jdj560/vhdl/dec_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/dec_n.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package numeric_std
--- Compiling entity dec_n
--- Compiling architecture behavioral of dec_n
-
-} {} {}} /home/jdj560/vhdl/not_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/not_gate.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity not_gate
--- Compiling architecture dataflow of not_gate
-
-} {} {}} /home/jdj560/vhdl/or_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/or_gate.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity or_gate
--- Compiling architecture dataflow of or_gate
 
 } {} {}} /home/jdj560/vhdl/add.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/add.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
@@ -267,5 +296,27 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package eecs361_gates
 -- Compiling entity add
 -- Compiling architecture structural of add
+
+} {} {}} /home/jdj560/vhdl/or_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/or_gate.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
+
+} {} {}} /home/jdj560/vhdl/not_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/not_gate.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+-- Compiling architecture dataflow of not_gate
+
+} {} {}} /home/jdj560/vhdl/dec_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/dec_n.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
 
 } {} {}}
