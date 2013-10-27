@@ -383,7 +383,7 @@ AutoExclusions = fsm
 UserTimeUnit = default
 
 ; Default run length
-RunLength = 100 ns
+RunLength = 150 ns
 
 ; Maximum iterations that can be run without advancing simulation time
 IterationLimit = 5000
@@ -1062,7 +1062,7 @@ Project_Files_Count = 40
 Project_File_0 = /home/jdj560/vhdl/eecs361.vhd
 Project_File_P_0 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382473361 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 7 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_1 = /home/jdj560/vhdl/sll.vhd
-Project_File_P_1 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 0 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 1 toggle - vhdl_warn5 1 compile_to work compile_order 38 dont_compile 0 cover_nosub 0 vhdl_use93 2002
+Project_File_P_1 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382849856 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 38 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_2 = /home/jdj560/vhdl/nor_gate_32.vhd
 Project_File_P_2 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382473361 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 16 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_3 = /home/jdj560/vhdl/nor_gate_n.vhd
@@ -1076,7 +1076,7 @@ Project_File_P_6 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 
 Project_File_7 = /home/jdj560/vhdl/sub_32.vhd
 Project_File_P_7 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382843714 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 37 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_8 = /home/jdj560/vhdl/alu_demo.vhd
-Project_File_P_8 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382839370 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 35 dont_compile 0 cover_nosub 0 vhdl_use93 2002
+Project_File_P_8 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382850932 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 35 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_9 = /home/jdj560/vhdl/or_gate_n.vhd
 Project_File_P_9 = vhdl_novitalcheck 0 file_type vhdl group_id 0 vhdl_nodebug 0 vhdl_1164 1 vhdl_noload 0 vhdl_synth 0 vhdl_enable0In 0 folder {Top Level} last_compile 1382473361 vhdl_disableopt 0 cover_excludedefault 0 vhdl_vital 0 vhdl_warn1 1 vhdl_showsource 0 vhdl_warn2 1 vhdl_explicit 1 vhdl_0InOptions {} cover_covercells 0 vhdl_warn3 1 vhdl_options {} cover_optlevel 2 voptflow 1 vhdl_warn4 1 ood 0 toggle - vhdl_warn5 1 compile_to work compile_order 23 dont_compile 0 cover_nosub 0 vhdl_use93 2002
 Project_File_10 = /home/jdj560/vhdl/not_gate_n.vhd
@@ -1173,6 +1173,6 @@ LOGFILE_DoubleClick = Edit
 LOGFILE_CustomDoubleClick = 
 UCDB_DoubleClick = Edit
 UCDB_CustomDoubleClick = 
-EditorState = {tabbed horizontal 1} {/home/jdj560/vhdl/alu.vhdl 0 1} {/home/jdj560/vhdl/add_32.vhd 0 0} {/home/jdj560/vhdl/mux_32.vhd 0 0} {/home/jdj560/vhdl/mux_8_to_1.vhd 0 0} {/home/jdj560/vhdl/alu_demo.vhd 0 0} {/home/jdj560/vhdl/slt.vhd 0 0} {/home/jdj560/vhdl/sub_32.vhd 0 0} {/home/jdj560/vhdl/sll.vhd 0 0} {/home/jdj560/vhdl/mux32_8_to_1.vhd 0 0}
+EditorState = {tabbed horizontal 1} {/home/jdj560/vhdl/alu.vhdl 0 0} {/home/jdj560/vhdl/alu_demo.vhd 0 1} {/home/jdj560/vhdl/sll.vhd 0 0} {/home/jdj560/vhdl/slt.vhd 0 0} {/home/jdj560/vhdl/sub_32.vhd 0 0}
 Project_Major_Version = 6
 Project_Minor_Version = 3

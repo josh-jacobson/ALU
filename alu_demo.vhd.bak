@@ -31,10 +31,38 @@ architecture structural of alu_demo is
       control <= "000";
       wait for 5 ns;
       
+      -- test subtract (NOT WORKING)
       A <= x"00000001";
       B <= x"00000001";
-      control <= "000";
+      control <= "001";
       wait for 5 ns;
+      
+      
+      -- test and
+      A <= x"00000001";
+      B <= x"00000001";
+      control <= "010";
+      wait for 5 ns;
+      
+      
+      -- test or
+      A <= x"00000001";
+      B <= x"00000001";
+      control <= "011";
+      wait for 5 ns;
+      
+      -- test sll
+      A <= x"00000001";
+      B <= x"00000001";
+      control <= "100";
+      wait for 5 ns;
+      
+      -- test slt
+      A <= x"00000001";
+      B <= x"00000001";
+      control <= "101";
+      wait for 5 ns;
+      
       wait;
-   end process?
-end architecture structural
+   end process;
+end architecture structural;
