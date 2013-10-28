@@ -24,11 +24,12 @@ component add_32 is
 end component add_32;
 
 signal not_y, negative_y : std_logic_vector(31 downto 0);
+signal add_overflow : std_logic;
 
 
 begin
     not_map : not_gate_32 port map (x, not_y);
-    add_one_map : add_32 port map(not_y, x"00000001", negative_y, overflow);
-    add_32_map : add_32 port map (x, negative_y,z, overflow);
+    add_one_map : add_32 port map(not_y, x"00000001", negative_y, add_overflow);
+    add_32_map : add_32 port map (x, negative_y, z, overflow);
     
 end structural;

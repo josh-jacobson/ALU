@@ -28,5 +28,5 @@ begin
     -- compute x - y. If negative (i.e., top bit set), then x < y.
     sub_map: sub_32 port map (x, y, difference, overflow);
     result(0) <= difference(31); -- set the result based on the sign bit of the difference 
-    
+    z <= result;
 end structural;

@@ -9,7 +9,7 @@ entity slt_32 is
     z   : out std_logic_vector(31 downto 0);
     overflow : out std_logic
   );
-end slt;
+end slt_32;
 
 architecture structural of slt_32 is
 

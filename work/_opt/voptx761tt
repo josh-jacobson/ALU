@@ -4,9 +4,9 @@ K3
 Z0 cModel Technology
 Z1 d/home/jdj560
 T_opt
-Z2 VEL3MLO_WG6TPc^?<V`c<A3
+Z2 VAKfi^_N@<CEJSPT<MPWga3
 Z3 04 8 10 work alu_demo structural 1
-Z4 =1-1803731fda0b-526ca419-a7c2c-4ee3
+Z4 =1-1803731fda0b-526db2e2-d76df-323f
 Z5 o-quiet -auto_acc_if_foreign -work work
 Z6 tExplicit 1
 Z7 OL;O;6.3c;37
@@ -66,9 +66,10 @@ R15
 R16
 R6
 Ealu
-Z31 w1382847326
+Z31 w1382920391
 R9
 R10
+32
 R11
 Z32 8/home/jdj560/vhdl/alu.vhdl
 Z33 F/home/jdj560/vhdl/alu.vhdl
@@ -76,7 +77,6 @@ l0
 L6
 Z34 V>4=U@oG8NR?[BjHzb_i]H2
 R15
-32
 R16
 R6
 Astructural
@@ -101,7 +101,7 @@ R15
 R16
 R6
 Ealu_demo
-Z44 w1382851582
+Z44 w1382920708
 R10
 32
 R11
@@ -121,7 +121,7 @@ Z48 DE work alu_demo a[TMNIFRk[WP_FKazUe0S1
 R29
 l24
 L10
-Z49 V3:]ajWTi2`SC0bC[kK=;02
+Z49 VLV1DUE3WjL3`0[YbJl?Oo2
 R15
 R16
 R6
@@ -763,7 +763,7 @@ R29
 R16
 R6
 Esll_32
-Z177 w1382849856
+Z177 w1382919332
 R9
 R10
 R11
@@ -783,9 +783,9 @@ R38
 32
 R21
 R22
-l34
+l23
 L13
-Z181 V68;Y6Rd00fKzHhW;XOL`G2
+Z181 Vol;CM]mFZaM5a9XXP?c>T1
 R15
 R16
 R6
@@ -804,7 +804,7 @@ R15
 R16
 R6
 Eslt_32
-Z186 w1382845991
+Z186 w1382918260
 R9
 R10
 R11
@@ -827,7 +827,7 @@ R21
 R22
 l27
 L14
-Z188 VhCNkjXTgbW3^9n?@e_Bl50
+Z188 VezBg@;4hQV:eaoZeY;:dW1
 R15
 R16
 R6
@@ -871,9 +871,10 @@ R74
 R16
 R6
 Esub_32
-Z203 w1382843714
+Z203 w1382920897
 R9
 R10
+32
 R11
 Z204 8/home/jdj560/vhdl/sub_32.vhd
 Z205 F/home/jdj560/vhdl/sub_32.vhd
@@ -881,7 +882,6 @@ l0
 L6
 Z206 VHG=<l0d=kGC^Vdo]EnHkR3
 R15
-32
 R16
 R6
 Astructural
@@ -893,9 +893,9 @@ R41
 32
 R21
 R22
-l29
+l30
 L16
-Z207 V64bQgc]=6j6Re>M=e>oII0
+Z207 V3@^WHhohWhda9CkOJKHb70
 R15
 R16
 R6

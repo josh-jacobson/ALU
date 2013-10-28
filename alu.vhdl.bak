@@ -89,5 +89,5 @@ begin
    sll_map : sll_32 port map (A, B, sll32);
    slt_map : slt_32 port map (A, B, slt32, overflows(5));
    main_mux_map : mux32_8_to_1 port map (control, addition, subtraction, and32, or32, sll32, slt32, zeros, zeros, result);
-   overflow_mux_map : mux_8_to_1 port map (control, overflows(0), overflows(1), overflows(2), overflows(3), overflows(4),overflows(5), zeros, zeros, overflow);
+   overflow_mux_map : mux_8_to_1 port map (control, overflows(0), overflows(1), overflows(2), overflows(3), overflows(4),overflows(5), '0', '0', overflow);
 end structural;

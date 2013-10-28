@@ -27,8 +27,8 @@ signal not_y, negative_y : std_logic_vector(31 downto 0);
 
 
 begin
-    not_map : not_gate_32 port map (x, not_B);
-    add_one_map : add_32 port map(not_B, x"00000001", negative_y, overflow);
-    add_32_map : add_32 port map (x, negative_y,z, overflow);
+    not_map : not_gate_32 port map (x, not_y);
+    add_one_map : add_32 port map(not_y, x"00000001", negative_y, overflow);
+    add_32_map : add_32 port map (x, negative_y, z, overflow);
     
 end structural;
