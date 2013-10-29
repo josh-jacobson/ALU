@@ -41,16 +41,16 @@ architecture structural of alu_demo is
       wait for 5 ns;
       
       -- test subtract 
-      A <= x"00000001";
+      A <= x"00000010";
       B <= x"00000001";
       control <= "001";
       wait for 5 ns;
       
-      A <= x"00000011";
-      B <= x"00000111";
+      A <= x"00000111";
+      B <= x"00000011";
       wait for 5 ns;
       
-      A <= x"ffffffff";
+      A <= x"ffffff50";
       B <= x"ffffffff";
       wait for 5 ns;
       

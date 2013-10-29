@@ -1,17 +1,18 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity and_32 is
+entity add_32 is
   port (
     x, y   : in  std_logic_vector(31 downto 0);
+    c_in : in std_logic;
     z   : out std_logic_vector(31 downto 0);
     overflow : out std_logic
   );
-end and_32;
+end add_32;
 
 
 
-architecture structural of and_32 is
+architecture structural of add_32 is
 
 component add is
    port (

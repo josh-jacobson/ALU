@@ -48,6 +48,25 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity not_gate_32
 -- Compiling architecture dataflow of not_gate_32
 
+} {} {}} /home/jdj560/vhdl/alu.vhdl {0 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu.vhdl
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity alu
+-- Compiling architecture structural of alu
+** Error: /home/jdj560/vhdl/alu.vhdl(87): (vcom-1027) Number of positional association elements (5) exceeds number of formals (4).
+** Error: /home/jdj560/vhdl/alu.vhdl(88): Signal "subtraction" is type ieee.std_logic_1164.std_logic_vector; expecting type ieee.std_logic_1164.std_logic.
+** Error: /home/jdj560/vhdl/alu.vhdl(88): Cannot resolve indexed name as type ieee.std_logic_1164.std_logic_vector.
+** Error: /home/jdj560/vhdl/alu.vhdl(99): VHDL Compiler exiting
+
+} {8.0 12.0} {}} /home/jdj560/vhdl/not_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/not_gate_n.vhd
+Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_n
+-- Compiling architecture dataflow of not_gate_n
+
 } {} {}} /home/jdj560/vhdl/alu_demo.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu_demo.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
@@ -64,37 +83,12 @@ Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Compiling entity mux_32
 -- Compiling architecture structural of mux_32
 
-} {} {}} /home/jdj560/vhdl/alu.vhdl {0 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/alu.vhdl
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package eecs361_gates
--- Compiling entity alu
--- Compiling architecture structural of alu
-** Error: /home/jdj560/vhdl/alu.vhdl(92): near "'": syntax error
-** Error: /home/jdj560/vhdl/alu.vhdl(93): VHDL Compiler exiting
-
-} {8.0 10.0} {}} /home/jdj560/vhdl/sub_32.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/sub_32.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package eecs361_gates
--- Compiling entity sub_32
--- Compiling architecture structural of sub_32
-
 } {} {}} /home/jdj560/vhdl/or_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/or_gate_n.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Compiling entity or_gate_n
 -- Compiling architecture dataflow of or_gate_n
-
-} {} {}} /home/jdj560/vhdl/not_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/not_gate_n.vhd
-Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
--- Loading package standard
--- Loading package std_logic_1164
--- Compiling entity not_gate_n
--- Compiling architecture dataflow of not_gate_n
 
 } {} {}} /home/jdj560/vhdl/xnor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt /home/jdj560/vhdl/xnor_gate.vhd
 Model Technology ModelSim SE-64 vcom 6.3c Compiler 2007.09 Sep 11 2007
