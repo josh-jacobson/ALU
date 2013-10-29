@@ -4,1061 +4,1061 @@ K3
 Z0 cModel Technology
 Z1 d/home/jdj560
 T_opt
-VJj<JPaV?[igAGil@Fg;Mc1
-04 8 10 work alu_demo structural 1
-Z2 =1-1803731fd06e-526f1652-b17c7-677
-Z3 o-quiet -auto_acc_if_foreign -work work
-Z4 tExplicit 1
-Z5 OL;O;6.3c;37
+V_3g4_mGNP:^JSL9BfcHCU0
+Z2 04 8 10 work alu_demo structural 1
+Z3 =1-1803731fd06e-526f18d2-d4ecb-782
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 tExplicit 1
+Z6 OL;O;6.3c;37
 Eadd
-Z6 w1382826936
-Z7 DP work eecs361_gates jb>Jj^gk2fElzOU49[A@c1
-Z8 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
-Z9 d/home/jdj560/vhdl
-Z10 8/home/jdj560/vhdl/add.vhd
-Z11 F/home/jdj560/vhdl/add.vhd
+Z7 w1382826936
+Z8 DP work eecs361_gates jb>Jj^gk2fElzOU49[A@c1
+Z9 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+Z10 d/home/jdj560/vhdl
+Z11 8/home/jdj560/vhdl/add.vhd
+Z12 F/home/jdj560/vhdl/add.vhd
 l0
 L6
-Z12 V@V0ALY0KE6@=D>C[_<j4i3
-Z13 OL;C;6.3c;37
+Z13 V@V0ALY0KE6@=D>C[_<j4i3
+Z14 OL;C;6.3c;37
 32
-Z14 o-work work -2002 -explicit
-R4
+Z15 o-work work -2002 -explicit
+R5
 Astructural
-R7
-R8
-Z15 DE work add @V0ALY0KE6@=D>C[_<j4i3
-l17
-L13
-Z16 VDCTXn=;4THckV0U;hid]<1
-R13
-32
-Z17 M2 ieee std_logic_1164
-Z18 M1 work eecs361_gates
-R14
-R4
-Eadd_32
-Z19 w1383011402
 R8
 R9
-Z20 8/home/jdj560/vhdl/add_32.vhd
-Z21 F/home/jdj560/vhdl/add_32.vhd
+Z16 DE work add @V0ALY0KE6@=D>C[_<j4i3
+l17
+L13
+Z17 VDCTXn=;4THckV0U;hid]<1
+R14
+32
+Z18 M2 ieee std_logic_1164
+Z19 M1 work eecs361_gates
+R15
+R5
+Eadd_32
+Z20 w1383011402
+R9
+R10
+Z21 8/home/jdj560/vhdl/add_32.vhd
+Z22 F/home/jdj560/vhdl/add_32.vhd
 l0
 L4
-Z22 VCI^H9:gIjoVN7[X@DBg<J0
-R13
-32
+Z23 VCI^H9:gIjoVN7[X@DBg<J0
 R14
-R4
+32
+R15
+R5
 Astructural
-R8
-Z23 DE work add_32 CI^H9:gIjoVN7[X@DBg<J0
+R9
+Z24 DE work add_32 CI^H9:gIjoVN7[X@DBg<J0
 l26
 L15
-Z24 VJjDhSe]Z<^ERdC0acWJiQ3
-R13
-32
-Z25 M1 ieee std_logic_1164
+Z25 VJjDhSe]Z<^ERdC0acWJiQ3
 R14
-R4
+32
+Z26 M1 ieee std_logic_1164
+R15
+R5
 Ealu
-Z26 w1383011679
-R7
+Z27 w1383011679
 R8
 R9
-Z27 8/home/jdj560/vhdl/alu.vhdl
-Z28 F/home/jdj560/vhdl/alu.vhdl
+R10
+Z28 8/home/jdj560/vhdl/alu.vhdl
+Z29 F/home/jdj560/vhdl/alu.vhdl
 l0
 L6
-Z29 V>4=U@oG8NR?[BjHzb_i]H2
-R13
-32
+Z30 V>4=U@oG8NR?[BjHzb_i]H2
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
 R8
-Z30 DE work alu >4=U@oG8NR?[BjHzb_i]H2
+R9
+Z31 DE work alu >4=U@oG8NR?[BjHzb_i]H2
 l86
 L18
-Z31 VYLike?lA4@_P;IH^mm8d>2
-R13
-32
-R17
-R18
+Z32 VYLike?lA4@_P;IH^mm8d>2
 R14
-R4
+32
+R18
+R19
+R15
+R5
 Ealu_demo
-Z32 w1383008738
-R8
+Z33 w1383012514
 R9
-Z33 8/home/jdj560/vhdl/alu_demo.vhd
-Z34 F/home/jdj560/vhdl/alu_demo.vhd
+R10
+Z34 8/home/jdj560/vhdl/alu_demo.vhd
+Z35 F/home/jdj560/vhdl/alu_demo.vhd
 l0
 L3
-Z35 Va[TMNIFRk[WP_FKazUe0S1
-R13
-32
+Z36 Va[TMNIFRk[WP_FKazUe0S1
 R14
-R4
+32
+R15
+R5
 Astructural
-R8
-Z36 DE work alu_demo a[TMNIFRk[WP_FKazUe0S1
+R9
+Z37 DE work alu_demo a[TMNIFRk[WP_FKazUe0S1
 l24
 L10
-Z37 Vke`2g2o6kVHSC?VHSRjT=3
-R13
-32
-R25
+Z38 V]4F2h32aAHVcSNOX8gd>I0
 R14
-R4
+32
+R26
+R15
+R5
 Eand_32
-Z38 w1382827411
-R8
+Z39 w1382827411
 R9
-R20
+R10
 R21
+R22
 l0
 L4
-Z39 Vn1Z2R3334cRDOaYOC2V451
-R13
-32
+Z40 Vn1Z2R3334cRDOaYOC2V451
 R14
-R4
+32
+R15
+R5
 Astructural
-R8
-Z40 DE work and_32 n1Z2R3334cRDOaYOC2V451
+R9
+Z41 DE work and_32 n1Z2R3334cRDOaYOC2V451
 l25
 L14
-Z41 V>kd@5X`_La6mO`[X6eFiG2
-R13
-32
-R25
+Z42 V>kd@5X`_La6mO`[X6eFiG2
 R14
-R4
+32
+R26
+R15
+R5
 Eand_gate
-Z42 w1382473361
-R8
+Z43 w1382473361
 R9
-Z43 8/home/jdj560/vhdl/and_gate.vhd
-Z44 F/home/jdj560/vhdl/and_gate.vhd
+R10
+Z44 8/home/jdj560/vhdl/and_gate.vhd
+Z45 F/home/jdj560/vhdl/and_gate.vhd
 l0
 L5
-Z45 ViD35i4k5;<51ZJNgE_I`?1
-R13
-32
+Z46 ViD35i4k5;<51ZJNgE_I`?1
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z46 DE work and_gate iD35i4k5;<51ZJNgE_I`?1
+R9
+Z47 DE work and_gate iD35i4k5;<51ZJNgE_I`?1
 l14
 L13
-Z47 V7Ie:gb<o026L7LOWFa@fQ2
-R13
-32
-R25
+Z48 V7Ie:gb<o026L7LOWFa@fQ2
 R14
-R4
+32
+R26
+R15
+R5
 Eand_gate_32
-R42
-R8
+R43
 R9
-Z48 8/home/jdj560/vhdl/and_gate_32.vhd
-Z49 F/home/jdj560/vhdl/and_gate_32.vhd
+R10
+Z49 8/home/jdj560/vhdl/and_gate_32.vhd
+Z50 F/home/jdj560/vhdl/and_gate_32.vhd
 l0
 L5
-Z50 VFczoAX`e79<gCJJa4LDh70
-R13
-32
+Z51 VFczoAX`e79<gCJJa4LDh70
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z51 DE work and_gate_32 FczoAX`e79<gCJJa4LDh70
+R9
+Z52 DE work and_gate_32 FczoAX`e79<gCJJa4LDh70
 l14
 L13
-Z52 V[_QoUaofmi7Za7gOzW8f_3
-R13
-32
-R25
+Z53 V[_QoUaofmi7Za7gOzW8f_3
 R14
-R4
+32
+R26
+R15
+R5
 Eand_gate_n
-R42
-R8
+R43
 R9
-Z53 8/home/jdj560/vhdl/and_gate_n.vhd
-Z54 F/home/jdj560/vhdl/and_gate_n.vhd
+R10
+Z54 8/home/jdj560/vhdl/and_gate_n.vhd
+Z55 F/home/jdj560/vhdl/and_gate_n.vhd
 l0
 L5
-Z55 V1XjoRBjHE@ET>hR0@P]9^1
-R13
-32
+Z56 V1XjoRBjHE@ET>hR0@P]9^1
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z56 DE work and_gate_n 1XjoRBjHE@ET>hR0@P]9^1
+R9
+Z57 DE work and_gate_n 1XjoRBjHE@ET>hR0@P]9^1
 l17
 L16
-Z57 VKOPPga9^U2LEGMBB_4QJR2
-R13
-32
-R25
+Z58 VKOPPga9^U2LEGMBB_4QJR2
 R14
-R4
+32
+R26
+R15
+R5
 Edec_n
-R42
-Z58 DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
-R8
+R43
+Z59 DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
 R9
-Z59 8/home/jdj560/vhdl/dec_n.vhd
-Z60 F/home/jdj560/vhdl/dec_n.vhd
+R10
+Z60 8/home/jdj560/vhdl/dec_n.vhd
+Z61 F/home/jdj560/vhdl/dec_n.vhd
 l0
 L5
-Z61 VW81n^B>0EZAUSR3lSH_HI2
-R13
-32
+Z62 VW81n^B>0EZAUSR3lSH_HI2
 R14
-R4
+32
+R15
+R5
 Abehavioral
-R58
-R8
-Z62 DE work dec_n W81n^B>0EZAUSR3lSH_HI2
+R59
+R9
+Z63 DE work dec_n W81n^B>0EZAUSR3lSH_HI2
 l16
 L15
-Z63 Vi7;z?Xn:oVfLC:FBzAUDg2
-R13
-32
-R17
-Z64 M1 ieee numeric_std
+Z64 Vi7;z?Xn:oVfLC:FBzAUDg2
 R14
-R4
+32
+R18
+Z65 M1 ieee numeric_std
+R15
+R5
 Edff
-R42
-R8
+R43
 R9
-Z65 8/home/jdj560/vhdl/dff.vhd
-Z66 F/home/jdj560/vhdl/dff.vhd
+R10
+Z66 8/home/jdj560/vhdl/dff.vhd
+Z67 F/home/jdj560/vhdl/dff.vhd
 l0
 L4
-Z67 V28WCl`LXJ6<cID_LbAJo<3
-R13
-32
+Z68 V28WCl`LXJ6<cID_LbAJo<3
 R14
-R4
+32
+R15
+R5
 Abehavioral
-R8
-Z68 DE work dff 28WCl`LXJ6<cID_LbAJo<3
+R9
+Z69 DE work dff 28WCl`LXJ6<cID_LbAJo<3
 l13
 L12
-Z69 VBPd8eX:o4]XI`n6BT]<ZQ2
-R13
-32
-R25
+Z70 VBPd8eX:o4]XI`n6BT]<ZQ2
 R14
-R4
+32
+R26
+R15
+R5
 Edffr
-R42
-R8
+R43
 R9
-Z70 8/home/jdj560/vhdl/dffr.vhd
-Z71 F/home/jdj560/vhdl/dffr.vhd
+R10
+Z71 8/home/jdj560/vhdl/dffr.vhd
+Z72 F/home/jdj560/vhdl/dffr.vhd
 l0
 L4
-Z72 VDlSBe>MRYSYBA]_@lfL2S1
-R13
-32
+Z73 VDlSBe>MRYSYBA]_@lfL2S1
 R14
-R4
+32
+R15
+R5
 Abehavioral
-R8
-Z73 DE work dffr DlSBe>MRYSYBA]_@lfL2S1
+R9
+Z74 DE work dffr DlSBe>MRYSYBA]_@lfL2S1
 l13
 L12
-Z74 V>m^noO]>>AgFBIPb93zgb0
-R13
-32
-R25
+Z75 V>m^noO]>>AgFBIPb93zgb0
 R14
-R4
+32
+R26
+R15
+R5
 Peecs361
-R7
 R8
-R42
 R9
-Z75 8/home/jdj560/vhdl/eecs361.vhd
-Z76 F/home/jdj560/vhdl/eecs361.vhd
+R43
+R10
+Z76 8/home/jdj560/vhdl/eecs361.vhd
+Z77 F/home/jdj560/vhdl/eecs361.vhd
 l0
 L8
-Z77 Vk[L>h2QD_MnH6R7?HiNRR2
-R13
-32
-R17
-R18
+Z78 Vk[L>h2QD_MnH6R7?HiNRR2
 R14
-R4
+32
+R18
+R19
+R15
+R5
 Peecs361_gates
-R8
-R42
 R9
-Z78 8/home/jdj560/vhdl/eecs361_gates.vhd
-Z79 F/home/jdj560/vhdl/eecs361_gates.vhd
+R43
+R10
+Z79 8/home/jdj560/vhdl/eecs361_gates.vhd
+Z80 F/home/jdj560/vhdl/eecs361_gates.vhd
 l0
 L4
-Z80 Vjb>Jj^gk2fElzOU49[A@c1
-R13
-32
-R25
+Z81 Vjb>Jj^gk2fElzOU49[A@c1
 R14
-R4
+32
+R26
+R15
+R5
 Emux
-R42
-R7
-Z81 DP work eecs361 k[L>h2QD_MnH6R7?HiNRR2
+R43
 R8
+Z82 DP work eecs361 k[L>h2QD_MnH6R7?HiNRR2
 R9
-Z82 8/home/jdj560/vhdl/mux.vhd
-Z83 F/home/jdj560/vhdl/mux.vhd
+R10
+Z83 8/home/jdj560/vhdl/mux.vhd
+Z84 F/home/jdj560/vhdl/mux.vhd
 l0
 L5
-Z84 VH8`C3OODn93bf9eN1]XJB3
-R13
-32
+Z85 VH8`C3OODn93bf9eN1]XJB3
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
-R81
 R8
-Z85 DE work mux H8`C3OODn93bf9eN1]XJB3
+R82
+R9
+Z86 DE work mux H8`C3OODn93bf9eN1]XJB3
 l15
 L14
-Z86 V212T8Q6Y1FPn74eTIknzT0
-R13
-32
-Z87 M3 ieee std_logic_1164
-Z88 M2 work eecs361
-R18
+Z87 V212T8Q6Y1FPn74eTIknzT0
 R14
-R4
+32
+Z88 M3 ieee std_logic_1164
+Z89 M2 work eecs361
+R19
+R15
+R5
 Emux32_8_to_1
-Z89 w1382847210
-R7
-R81
+Z90 w1382847210
 R8
+R82
 R9
-Z90 8/home/jdj560/vhdl/mux32_8_to_1.vhd
-Z91 F/home/jdj560/vhdl/mux32_8_to_1.vhd
+R10
+Z91 8/home/jdj560/vhdl/mux32_8_to_1.vhd
+Z92 F/home/jdj560/vhdl/mux32_8_to_1.vhd
 l0
 L5
-Z92 V7oGhH]eOa<mAB>aag?n2i1
-R13
-32
+Z93 V7oGhH]eOa<mAB>aag?n2i1
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
-R81
 R8
-Z93 DE work mux32_8_to_1 7oGhH]eOa<mAB>aag?n2i1
+R82
+R9
+Z94 DE work mux32_8_to_1 7oGhH]eOa<mAB>aag?n2i1
 l23
 L20
-Z94 V3k5WkI;<0G3c=7L0Xh=gl3
-R13
-32
-R87
-R88
-R18
+Z95 V3k5WkI;<0G3c=7L0Xh=gl3
 R14
-R4
+32
+R88
+R89
+R19
+R15
+R5
 Emux_32
-R42
-R7
-R81
+R43
 R8
+R82
 R9
-Z95 8/home/jdj560/vhdl/mux_32.vhd
-Z96 F/home/jdj560/vhdl/mux_32.vhd
+R10
+Z96 8/home/jdj560/vhdl/mux_32.vhd
+Z97 F/home/jdj560/vhdl/mux_32.vhd
 l0
 L5
-Z97 VjUQ]8^VAGaBITIJ?09mgZ0
-R13
-32
+Z98 VjUQ]8^VAGaBITIJ?09mgZ0
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
-R81
 R8
-Z98 DE work mux_32 jUQ]8^VAGaBITIJ?09mgZ0
+R82
+R9
+Z99 DE work mux_32 jUQ]8^VAGaBITIJ?09mgZ0
 l15
 L14
-Z99 VIP8cdkJj]VWG1`6VM@Xk^1
-R13
-32
-R87
-R88
-R18
+Z100 VIP8cdkJj]VWG1`6VM@Xk^1
 R14
-R4
+32
+R88
+R89
+R19
+R15
+R5
 Emux_8_to_1
-Z100 w1382847222
-R7
-R81
+Z101 w1382847222
 R8
+R82
 R9
-Z101 8/home/jdj560/vhdl/mux_8_to_1.vhd
-Z102 F/home/jdj560/vhdl/mux_8_to_1.vhd
+R10
+Z102 8/home/jdj560/vhdl/mux_8_to_1.vhd
+Z103 F/home/jdj560/vhdl/mux_8_to_1.vhd
 l0
 L5
-Z103 VF?hlQ?[6RL5?=<dM[MKfk3
-R13
-32
+Z104 VF?hlQ?[6RL5?=<dM[MKfk3
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
-R81
 R8
-Z104 DE work mux_8_to_1 F?hlQ?[6RL5?=<dM[MKfk3
+R82
+R9
+Z105 DE work mux_8_to_1 F?hlQ?[6RL5?=<dM[MKfk3
 l23
 L20
-Z105 Vanm;H]9@O4n_VO:@ec6ZD3
-R13
-32
-R87
-R88
-R18
+Z106 Vanm;H]9@O4n_VO:@ec6ZD3
 R14
-R4
+32
+R88
+R89
+R19
+R15
+R5
 Emux_n
-R42
-R8
+R43
 R9
-Z106 8/home/jdj560/vhdl/mux_n.vhd
-Z107 F/home/jdj560/vhdl/mux_n.vhd
+R10
+Z107 8/home/jdj560/vhdl/mux_n.vhd
+Z108 F/home/jdj560/vhdl/mux_n.vhd
 l0
 L4
-Z108 VAP3TUN0AgIHIkSP1g9I2h2
-R13
-32
+Z109 VAP3TUN0AgIHIkSP1g9I2h2
 R14
-R4
+32
+R15
+R5
 Abehavioral
-R8
-Z109 DE work mux_n AP3TUN0AgIHIkSP1g9I2h2
+R9
+Z110 DE work mux_n AP3TUN0AgIHIkSP1g9I2h2
 l17
 L16
-Z110 VHe_`dTiLFkI]W1:f<mA8]1
-R13
-32
-R25
+Z111 VHe_`dTiLFkI]W1:f<mA8]1
 R14
-R4
+32
+R26
+R15
+R5
 Enand_gate
-R42
-R8
+R43
 R9
-Z111 8/home/jdj560/vhdl/nand_gate.vhd
-Z112 F/home/jdj560/vhdl/nand_gate.vhd
+R10
+Z112 8/home/jdj560/vhdl/nand_gate.vhd
+Z113 F/home/jdj560/vhdl/nand_gate.vhd
 l0
 L5
-Z113 Ve3e2@JdTh<J`noVQnnJ@>0
-R13
-32
+Z114 Ve3e2@JdTh<J`noVQnnJ@>0
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z114 DE work nand_gate e3e2@JdTh<J`noVQnnJ@>0
+R9
+Z115 DE work nand_gate e3e2@JdTh<J`noVQnnJ@>0
 l14
 L13
-Z115 VOo9O9VIM]EELEhRlg;3ci1
-R13
-32
-R25
+Z116 VOo9O9VIM]EELEhRlg;3ci1
 R14
-R4
+32
+R26
+R15
+R5
 Enand_gate_32
-R42
-R8
+R43
 R9
-Z116 8/home/jdj560/vhdl/nand_gate_32.vhd
-Z117 F/home/jdj560/vhdl/nand_gate_32.vhd
+R10
+Z117 8/home/jdj560/vhdl/nand_gate_32.vhd
+Z118 F/home/jdj560/vhdl/nand_gate_32.vhd
 l0
 L5
-Z118 V7Mkf65>_JL>B=JfiR<KU20
-R13
-32
+Z119 V7Mkf65>_JL>B=JfiR<KU20
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z119 DE work nand_gate_32 7Mkf65>_JL>B=JfiR<KU20
+R9
+Z120 DE work nand_gate_32 7Mkf65>_JL>B=JfiR<KU20
 l14
 L13
-Z120 V:in@:;1K^ClbegAC^2JQZ3
-R13
-32
-R25
+Z121 V:in@:;1K^ClbegAC^2JQZ3
 R14
-R4
+32
+R26
+R15
+R5
 Enand_gate_n
-R42
-R8
+R43
 R9
-Z121 8/home/jdj560/vhdl/nand_gate_n.vhd
-Z122 F/home/jdj560/vhdl/nand_gate_n.vhd
+R10
+Z122 8/home/jdj560/vhdl/nand_gate_n.vhd
+Z123 F/home/jdj560/vhdl/nand_gate_n.vhd
 l0
 L5
-Z123 V@K[DNZGGXo]GX;VkAn@2K2
-R13
-32
+Z124 V@K[DNZGGXo]GX;VkAn@2K2
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z124 DE work nand_gate_n @K[DNZGGXo]GX;VkAn@2K2
+R9
+Z125 DE work nand_gate_n @K[DNZGGXo]GX;VkAn@2K2
 l17
 L16
-Z125 VmY7=e>9IDNeY2Ti>dBgzF3
-R13
-32
-R25
+Z126 VmY7=e>9IDNeY2Ti>dBgzF3
 R14
-R4
+32
+R26
+R15
+R5
 Enor_gate
-R42
-R8
+R43
 R9
-Z126 8/home/jdj560/vhdl/nor_gate.vhd
-Z127 F/home/jdj560/vhdl/nor_gate.vhd
+R10
+Z127 8/home/jdj560/vhdl/nor_gate.vhd
+Z128 F/home/jdj560/vhdl/nor_gate.vhd
 l0
 L5
-Z128 V0Z9Y7ez]JMl814lR?Yn2B2
-R13
-32
+Z129 V0Z9Y7ez]JMl814lR?Yn2B2
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z129 DE work nor_gate 0Z9Y7ez]JMl814lR?Yn2B2
+R9
+Z130 DE work nor_gate 0Z9Y7ez]JMl814lR?Yn2B2
 l14
 L13
-Z130 V1@WZWgBLHQB[6VPdSok4U3
-R13
-32
-R25
+Z131 V1@WZWgBLHQB[6VPdSok4U3
 R14
-R4
+32
+R26
+R15
+R5
 Enor_gate_32
-R42
-R8
+R43
 R9
-Z131 8/home/jdj560/vhdl/nor_gate_32.vhd
-Z132 F/home/jdj560/vhdl/nor_gate_32.vhd
+R10
+Z132 8/home/jdj560/vhdl/nor_gate_32.vhd
+Z133 F/home/jdj560/vhdl/nor_gate_32.vhd
 l0
 L5
-Z133 Vbl:knAzWoo_aMmj8M[0Jj3
-R13
-32
+Z134 Vbl:knAzWoo_aMmj8M[0Jj3
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z134 DE work nor_gate_32 bl:knAzWoo_aMmj8M[0Jj3
+R9
+Z135 DE work nor_gate_32 bl:knAzWoo_aMmj8M[0Jj3
 l14
 L13
-Z135 VK[cEIO0ARcoJ>g<gaM04o2
-R13
-32
-R25
+Z136 VK[cEIO0ARcoJ>g<gaM04o2
 R14
-R4
+32
+R26
+R15
+R5
 Enor_gate_n
-R42
-R8
+R43
 R9
-Z136 8/home/jdj560/vhdl/nor_gate_n.vhd
-Z137 F/home/jdj560/vhdl/nor_gate_n.vhd
+R10
+Z137 8/home/jdj560/vhdl/nor_gate_n.vhd
+Z138 F/home/jdj560/vhdl/nor_gate_n.vhd
 l0
 L5
-Z138 V:k0ZH6hX:W?8RHjI0o7;B3
-R13
-32
+Z139 V:k0ZH6hX:W?8RHjI0o7;B3
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z139 DE work nor_gate_n :k0ZH6hX:W?8RHjI0o7;B3
+R9
+Z140 DE work nor_gate_n :k0ZH6hX:W?8RHjI0o7;B3
 l17
 L16
-Z140 V9jT?68WO^=3XC=D=SMTPS2
-R13
-32
-R25
+Z141 V9jT?68WO^=3XC=D=SMTPS2
 R14
-R4
+32
+R26
+R15
+R5
 Enot_gate
-R42
-R8
+R43
 R9
-Z141 8/home/jdj560/vhdl/not_gate.vhd
-Z142 F/home/jdj560/vhdl/not_gate.vhd
+R10
+Z142 8/home/jdj560/vhdl/not_gate.vhd
+Z143 F/home/jdj560/vhdl/not_gate.vhd
 l0
 L5
-Z143 VXP@^J<e?l]CcJlKO@b[V?0
-R13
-32
+Z144 VXP@^J<e?l]CcJlKO@b[V?0
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z144 DE work not_gate XP@^J<e?l]CcJlKO@b[V?0
+R9
+Z145 DE work not_gate XP@^J<e?l]CcJlKO@b[V?0
 l13
 L12
-Z145 V<k1;LQEQzF8B7:RRi7Mde1
-R13
-32
-R25
+Z146 V<k1;LQEQzF8B7:RRi7Mde1
 R14
-R4
+32
+R26
+R15
+R5
 Enot_gate_32
-R42
-R8
+R43
 R9
-Z146 8/home/jdj560/vhdl/not_gate_32.vhd
-Z147 F/home/jdj560/vhdl/not_gate_32.vhd
+R10
+Z147 8/home/jdj560/vhdl/not_gate_32.vhd
+Z148 F/home/jdj560/vhdl/not_gate_32.vhd
 l0
 L5
-Z148 VcC6XclZOO=K4MHiG:8Ma?3
-R13
-32
+Z149 VcC6XclZOO=K4MHiG:8Ma?3
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z149 DE work not_gate_32 cC6XclZOO=K4MHiG:8Ma?3
+R9
+Z150 DE work not_gate_32 cC6XclZOO=K4MHiG:8Ma?3
 l13
 L12
-Z150 VL;<X?Q5>UWM;4L^2?L8;J1
-R13
-32
-R25
+Z151 VL;<X?Q5>UWM;4L^2?L8;J1
 R14
-R4
+32
+R26
+R15
+R5
 Enot_gate_n
-R42
-R8
+R43
 R9
-Z151 8/home/jdj560/vhdl/not_gate_n.vhd
-Z152 F/home/jdj560/vhdl/not_gate_n.vhd
+R10
+Z152 8/home/jdj560/vhdl/not_gate_n.vhd
+Z153 F/home/jdj560/vhdl/not_gate_n.vhd
 l0
 L5
-Z153 V;W<BHGSET;;Wbz>nW_AE21
-R13
-32
+Z154 V;W<BHGSET;;Wbz>nW_AE21
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z154 DE work not_gate_n ;W<BHGSET;;Wbz>nW_AE21
+R9
+Z155 DE work not_gate_n ;W<BHGSET;;Wbz>nW_AE21
 l16
 L15
-Z155 VZagUI6;4O0Q8W`WI0RXP20
-R13
-32
-R25
+Z156 VZagUI6;4O0Q8W`WI0RXP20
 R14
-R4
+32
+R26
+R15
+R5
 Eor_gate
-R42
-R8
+R43
 R9
-Z156 8/home/jdj560/vhdl/or_gate.vhd
-Z157 F/home/jdj560/vhdl/or_gate.vhd
+R10
+Z157 8/home/jdj560/vhdl/or_gate.vhd
+Z158 F/home/jdj560/vhdl/or_gate.vhd
 l0
 L5
-Z158 VPobQeTH]Bgm3H`aI8;k>31
-R13
-32
+Z159 VPobQeTH]Bgm3H`aI8;k>31
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z159 DE work or_gate PobQeTH]Bgm3H`aI8;k>31
+R9
+Z160 DE work or_gate PobQeTH]Bgm3H`aI8;k>31
 l14
 L13
-Z160 V:T1M><UC2A[fd__0Z3V321
-R13
-32
-R25
+Z161 V:T1M><UC2A[fd__0Z3V321
 R14
-R4
+32
+R26
+R15
+R5
 Eor_gate_32
-R42
-R8
+R43
 R9
-Z161 8/home/jdj560/vhdl/or_gate_32.vhd
-Z162 F/home/jdj560/vhdl/or_gate_32.vhd
+R10
+Z162 8/home/jdj560/vhdl/or_gate_32.vhd
+Z163 F/home/jdj560/vhdl/or_gate_32.vhd
 l0
 L5
-Z163 VH7CDAnY5XCR^8?WZYlO9S3
-R13
-32
+Z164 VH7CDAnY5XCR^8?WZYlO9S3
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z164 DE work or_gate_32 H7CDAnY5XCR^8?WZYlO9S3
+R9
+Z165 DE work or_gate_32 H7CDAnY5XCR^8?WZYlO9S3
 l14
 L13
-Z165 V=;K87[]nQK7VVOfa414za0
-R13
-32
-R25
+Z166 V=;K87[]nQK7VVOfa414za0
 R14
-R4
+32
+R26
+R15
+R5
 Eor_gate_n
-R42
-R8
+R43
 R9
-Z166 8/home/jdj560/vhdl/or_gate_n.vhd
-Z167 F/home/jdj560/vhdl/or_gate_n.vhd
+R10
+Z167 8/home/jdj560/vhdl/or_gate_n.vhd
+Z168 F/home/jdj560/vhdl/or_gate_n.vhd
 l0
 L5
-Z168 VXnPMiQfo2id:2^4:z57Ee1
-R13
-32
+Z169 VXnPMiQfo2id:2^4:z57Ee1
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z169 DE work or_gate_n XnPMiQfo2id:2^4:z57Ee1
+R9
+Z170 DE work or_gate_n XnPMiQfo2id:2^4:z57Ee1
 l17
 L16
-Z170 VG3AN:gb8ESJCPc^@2_@8T2
-R13
-32
-R25
+Z171 VG3AN:gb8ESJCPc^@2_@8T2
 R14
-R4
+32
+R26
+R15
+R5
 Esll_32
-Z171 w1383009030
-R7
+Z172 w1383009030
 R8
 R9
-Z172 8/home/jdj560/vhdl/sll.vhd
-Z173 F/home/jdj560/vhdl/sll.vhd
+R10
+Z173 8/home/jdj560/vhdl/sll.vhd
+Z174 F/home/jdj560/vhdl/sll.vhd
 l0
 L6
-Z174 V:Jk:6jh[O`>0JjzCYMT==1
-R13
-32
+Z175 V:Jk:6jh[O`>0JjzCYMT==1
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
 R8
-Z175 DE work sll_32 :Jk:6jh[O`>0JjzCYMT==1
+R9
+Z176 DE work sll_32 :Jk:6jh[O`>0JjzCYMT==1
 l23
 L13
-Z176 VW2_9FoSd7oKWW?g]C6a5a1
-R13
+Z177 VW2_9FoSd7oKWW?g]C6a5a1
+R14
 32
-R17
 R18
-R14
-R4
+R19
+R15
+R5
 Eslt
-Z177 w1382845740
-R7
+Z178 w1382845740
 R8
 R9
-Z178 8/home/jdj560/vhdl/slt.vhd
-Z179 F/home/jdj560/vhdl/slt.vhd
+R10
+Z179 8/home/jdj560/vhdl/slt.vhd
+Z180 F/home/jdj560/vhdl/slt.vhd
 l0
 L6
-Z180 V?HlClRYC5RAMZ0nlThaVd2
-R13
-32
+Z181 V?HlClRYC5RAMZ0nlThaVd2
 R14
-R4
+32
+R15
+R5
 Eslt_32
-Z181 w1382918260
-R7
+Z182 w1382918260
 R8
 R9
-R178
+R10
 R179
+R180
 l0
 L6
-Z182 VYX6o<8Wl^>VCIzeiF^<lh0
-R13
-32
+Z183 VYX6o<8Wl^>VCIzeiF^<lh0
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
 R8
-Z183 DE work slt_32 YX6o<8Wl^>VCIzeiF^<lh0
+R9
+Z184 DE work slt_32 YX6o<8Wl^>VCIzeiF^<lh0
 l27
 L14
-Z184 VezBg@;4hQV:eaoZeY;:dW1
-R13
-32
-R17
-R18
+Z185 VezBg@;4hQV:eaoZeY;:dW1
 R14
-R4
+32
+R18
+R19
+R15
+R5
 Esram
-R42
-R58
-Z185 DP ieee std_logic_textio 8YS?iX`WD1REQG`ZRYQGB2
-Z186 DP std textio K]Z^fghZ6B=BjnK5NomDT3
-Z187 DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
-Z188 DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
-R8
+R43
+R59
+Z186 DP ieee std_logic_textio 8YS?iX`WD1REQG`ZRYQGB2
+Z187 DP std textio K]Z^fghZ6B=BjnK5NomDT3
+Z188 DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+Z189 DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
 R9
-Z189 8/home/jdj560/vhdl/sram.vhd
-Z190 F/home/jdj560/vhdl/sram.vhd
+R10
+Z190 8/home/jdj560/vhdl/sram.vhd
+Z191 F/home/jdj560/vhdl/sram.vhd
 l0
 L12
-Z191 VD[K6nRz3ncm10jT>?DOML3
-R13
-32
+Z192 VD[K6nRz3ncm10jT>?DOML3
 R14
-R4
+32
+R15
+R5
 Abehavioral
-R58
-R185
+R59
 R186
 R187
 R188
-R8
-Z192 DE work sram D[K6nRz3ncm10jT>?DOML3
+R189
+R9
+Z193 DE work sram D[K6nRz3ncm10jT>?DOML3
 l27
 L26
-Z193 Vm;b;[MPebHhV<6D3GM:dB1
-R13
-32
-Z194 M6 ieee std_logic_1164
-Z195 M5 ieee std_logic_unsigned
-Z196 M4 ieee std_logic_arith
-Z197 M3 std textio
-Z198 M2 ieee std_logic_textio
-R64
+Z194 Vm;b;[MPebHhV<6D3GM:dB1
 R14
-R4
+32
+Z195 M6 ieee std_logic_1164
+Z196 M5 ieee std_logic_unsigned
+Z197 M4 ieee std_logic_arith
+Z198 M3 std textio
+Z199 M2 ieee std_logic_textio
+R65
+R15
+R5
 Esub_32
-Z199 w1383011586
-R7
+Z200 w1383012173
 R8
 R9
-Z200 8/home/jdj560/vhdl/sub_32.vhd
-Z201 F/home/jdj560/vhdl/sub_32.vhd
+R10
+Z201 8/home/jdj560/vhdl/sub_32.vhd
+Z202 F/home/jdj560/vhdl/sub_32.vhd
 l0
 L6
-Z202 VHG=<l0d=kGC^Vdo]EnHkR3
-R13
-32
+Z203 VHG=<l0d=kGC^Vdo]EnHkR3
 R14
-R4
+32
+R15
+R5
 Astructural
-R7
-R8
-Z203 DE work sub_32 HG=<l0d=kGC^Vdo]EnHkR3
-l30
-L16
-Z204 Vl:JAAhIaY@G[lMF^TmWV82
-R13
-32
-R17
-R18
-R14
-R4
-Esyncram
-R42
-R58
-R185
-R186
-R187
-R188
 R8
 R9
-Z205 8/home/jdj560/vhdl/syncram.vhd
-Z206 F/home/jdj560/vhdl/syncram.vhd
-l0
-L12
-Z207 V]e:Y?obJ[4M8b[19LA@K03
-R13
-32
+Z204 DE work sub_32 HG=<l0d=kGC^Vdo]EnHkR3
+l29
+L16
+Z205 Vl:JAAhIaY@G[lMF^TmWV82
 R14
-R4
-Abehavioral
-R58
-R185
+32
+R18
+R19
+R15
+R5
+Esyncram
+R43
+R59
 R186
 R187
 R188
-R8
-Z208 DE work syncram ]e:Y?obJ[4M8b[19LA@K03
+R189
+R9
+R10
+Z206 8/home/jdj560/vhdl/syncram.vhd
+Z207 F/home/jdj560/vhdl/syncram.vhd
+l0
+L12
+Z208 V]e:Y?obJ[4M8b[19LA@K03
+R14
+32
+R15
+R5
+Abehavioral
+R59
+R186
+R187
+R188
+R189
+R9
+Z209 DE work syncram ]e:Y?obJ[4M8b[19LA@K03
 l28
 L27
-Z209 VTbiEHF5k9SX[KFh3dAhke3
-R13
+Z210 VTbiEHF5k9SX[KFh3dAhke3
+R14
 32
-R194
 R195
 R196
 R197
 R198
-R64
-R14
-R4
+R199
+R65
+R15
+R5
 Exnor_gate
-R42
-R8
+R43
 R9
-Z210 8/home/jdj560/vhdl/xnor_gate.vhd
-Z211 F/home/jdj560/vhdl/xnor_gate.vhd
+R10
+Z211 8/home/jdj560/vhdl/xnor_gate.vhd
+Z212 F/home/jdj560/vhdl/xnor_gate.vhd
 l0
 L5
-Z212 V0jC_AEbQ?fX[VC;d9f=SZ0
-R13
-32
+Z213 V0jC_AEbQ?fX[VC;d9f=SZ0
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z213 DE work xnor_gate 0jC_AEbQ?fX[VC;d9f=SZ0
+R9
+Z214 DE work xnor_gate 0jC_AEbQ?fX[VC;d9f=SZ0
 l14
 L13
-Z214 V][HPFQ:M`=3IFhOU=XVYJ0
-R13
-32
-R25
+Z215 V][HPFQ:M`=3IFhOU=XVYJ0
 R14
-R4
+32
+R26
+R15
+R5
 Exnor_gate_32
-R42
-R8
+R43
 R9
-Z215 8/home/jdj560/vhdl/xnor_gate_32.vhd
-Z216 F/home/jdj560/vhdl/xnor_gate_32.vhd
+R10
+Z216 8/home/jdj560/vhdl/xnor_gate_32.vhd
+Z217 F/home/jdj560/vhdl/xnor_gate_32.vhd
 l0
 L5
-Z217 VRBRJkD;GmzZ;KGbV>TfCE0
-R13
-32
+Z218 VRBRJkD;GmzZ;KGbV>TfCE0
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z218 DE work xnor_gate_32 RBRJkD;GmzZ;KGbV>TfCE0
+R9
+Z219 DE work xnor_gate_32 RBRJkD;GmzZ;KGbV>TfCE0
 l14
 L13
-Z219 VchlkO?g<:;C7BR0hd]5FV0
-R13
-32
-R25
+Z220 VchlkO?g<:;C7BR0hd]5FV0
 R14
-R4
+32
+R26
+R15
+R5
 Exnor_gate_n
-R42
-R8
+R43
 R9
-Z220 8/home/jdj560/vhdl/xnor_gate_n.vhd
-Z221 F/home/jdj560/vhdl/xnor_gate_n.vhd
+R10
+Z221 8/home/jdj560/vhdl/xnor_gate_n.vhd
+Z222 F/home/jdj560/vhdl/xnor_gate_n.vhd
 l0
 L5
-Z222 VQ5SkE=YScX<bAnLWRJeLY2
-R13
-32
+Z223 VQ5SkE=YScX<bAnLWRJeLY2
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z223 DE work xnor_gate_n Q5SkE=YScX<bAnLWRJeLY2
+R9
+Z224 DE work xnor_gate_n Q5SkE=YScX<bAnLWRJeLY2
 l17
 L16
-Z224 VLC0RBM2e5O=z4B8[nmYS50
-R13
-32
-R25
+Z225 VLC0RBM2e5O=z4B8[nmYS50
 R14
-R4
+32
+R26
+R15
+R5
 Exor_gate
-R42
-R8
+R43
 R9
-Z225 8/home/jdj560/vhdl/xor_gate.vhd
-Z226 F/home/jdj560/vhdl/xor_gate.vhd
+R10
+Z226 8/home/jdj560/vhdl/xor_gate.vhd
+Z227 F/home/jdj560/vhdl/xor_gate.vhd
 l0
 L5
-Z227 VbjSHRh8@2g]F@@2[VWf6l1
-R13
-32
+Z228 VbjSHRh8@2g]F@@2[VWf6l1
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z228 DE work xor_gate bjSHRh8@2g]F@@2[VWf6l1
+R9
+Z229 DE work xor_gate bjSHRh8@2g]F@@2[VWf6l1
 l14
 L13
-Z229 VQF4A7TezMo3;;R6IF:@c?0
-R13
-32
-R25
+Z230 VQF4A7TezMo3;;R6IF:@c?0
 R14
-R4
+32
+R26
+R15
+R5
 Exor_gate_32
-R42
-R8
+R43
 R9
-Z230 8/home/jdj560/vhdl/xor_gate_32.vhd
-Z231 F/home/jdj560/vhdl/xor_gate_32.vhd
+R10
+Z231 8/home/jdj560/vhdl/xor_gate_32.vhd
+Z232 F/home/jdj560/vhdl/xor_gate_32.vhd
 l0
 L5
-Z232 Vi1l=7]fR<l]0hCK8E^IZW3
-R13
-32
+Z233 Vi1l=7]fR<l]0hCK8E^IZW3
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z233 DE work xor_gate_32 i1l=7]fR<l]0hCK8E^IZW3
+R9
+Z234 DE work xor_gate_32 i1l=7]fR<l]0hCK8E^IZW3
 l14
 L13
-Z234 VlQDA]gCWf5zNUcF>DSMlC3
-R13
-32
-R25
+Z235 VlQDA]gCWf5zNUcF>DSMlC3
 R14
-R4
+32
+R26
+R15
+R5
 Exor_gate_n
-R42
-R8
+R43
 R9
-Z235 8/home/jdj560/vhdl/xor_gate_n.vhd
-Z236 F/home/jdj560/vhdl/xor_gate_n.vhd
+R10
+Z236 8/home/jdj560/vhdl/xor_gate_n.vhd
+Z237 F/home/jdj560/vhdl/xor_gate_n.vhd
 l0
 L5
-Z237 VY>2j8ke4[;]oUS6I4Nak60
-R13
-32
+Z238 VY>2j8ke4[;]oUS6I4Nak60
 R14
-R4
+32
+R15
+R5
 Adataflow
-R8
-Z238 DE work xor_gate_n Y>2j8ke4[;]oUS6I4Nak60
+R9
+Z239 DE work xor_gate_n Y>2j8ke4[;]oUS6I4Nak60
 l17
 L16
-Z239 VY]BUeL=[7e79jmfInCRiH2
-R13
-32
-R25
+Z240 VY]BUeL=[7e79jmfInCRiH2
 R14
-R4
+32
+R26
+R15
+R5

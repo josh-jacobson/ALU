@@ -56,14 +56,14 @@ architecture structural of alu_demo is
       
       
       -- test and
-      A <= x"00000001";
+      A <= x"00000011";
       B <= x"00000001";
       control <= "010";
       wait for 5 ns;
       
       
       -- test or
-      A <= x"00000001";
+      A <= x"00000011";
       B <= x"00000001";
       control <= "011";
       wait for 5 ns;
@@ -76,9 +76,13 @@ architecture structural of alu_demo is
       
       -- test slt
       A <= x"00000001";
-      B <= x"00000001";
+      B <= x"00000011";
       control <= "101";
       wait for 5 ns;
+      
+      A <= x"00000111";
+      B <= x"00000011";
+      wait for 5 ns;
       
       wait;
    end process;
